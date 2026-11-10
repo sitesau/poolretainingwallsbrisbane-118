@@ -1,0 +1,22 @@
+{
+  "wheel_id": 833,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-118",
+  "project": "concrete-pool-retaining-walls-suburb-guide-092e63a17910becbf98f",
+  "parent_t1_ref": "poolretainingwallsbrisbane-158",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "concrete pool retaining walls suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/concrete-pool-retaining-walls-suburb-guide-092e63a17910becbf98f/",
+  "tier": "T2",
+  "writeback_nonce": "dd2565e525e5e8de",
+  "links": [
+    {
+      "target_url": "http://concrete-pool-retaining-walls-52eddd1637747f3d7fb791526ad4fe05c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
